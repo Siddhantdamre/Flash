@@ -1,0 +1,34 @@
+h1{
+    transform: translateX(-500px); 
+}
+.text-lg.mb-8 {
+    font-size: 1.12rem; 
+    margin-bottom: 5rem; 
+    transform: translateX(-500px); 
+}
+.upload-button {
+    background-color: orange;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s ease;
+    margin-left: 60px;
+  }
+  
+  .upload-button:hover {
+    background-color: darkorange; 
+  }
+  
+  .upload-button svg {
+    margin-right: 8px; 
+  }
+  .relative inline-block{
+    margin-left: -100px;
+  }
